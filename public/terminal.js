@@ -93,6 +93,7 @@ function COMMAND_HANDLER(com) {
         `<div class="bg-gray-800 px-2 py-1">[2017 - now] - Javascript</div> <br />` +
         `<div class="bg-gray-800 px-2 py-1">[2019 - now] - Java</div> <br />` +
         `<div class="bg-gray-800 px-2 py-1">[2020 - now] - PHP</div> <br />` +
+        `<div class="bg-gray-800 px-2 py-1">[2020 - now] - TypeScript</div> <br />` +
         `<div class="bg-gray-800 px-2 py-1">[2020 - now] - C#</div> <br />` +
         `<div class="bg-gray-800 px-2 py-1">[2021 - now] - C++</div> <br />` 
     }
